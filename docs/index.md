@@ -11,8 +11,8 @@ hero:
       text: 开始学习
       link: chapters/01-导论
     - theme: alt
-      text: 查看所有笔记
-      link: chapters/02-毛泽东思想
+      text: 查看试卷
+      link: papers/
 
 features:
   - title: 第一章：导论
@@ -33,4 +33,7 @@ features:
   - title: 第六章：科学发展观
     details: 推动经济社会发展转型的战略指导
     link: chapters/06-科学发展观
+  - title: 历年试卷
+    details: 2023-2024年毛概试卷回忆版，助您备考复习
+    link: papers/
 ---

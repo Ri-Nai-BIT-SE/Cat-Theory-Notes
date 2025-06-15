@@ -15,6 +15,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '笔记', link: '/chapters/01-导论' },
+      { text: '试卷', link: '/papers/' },
       { text: '关于', link: '/about' },
     ],
     outline: [1, 5],
@@ -35,6 +36,14 @@ export default defineConfig({
           { text: '第四章：邓小平理论', link: '/chapters/04-邓小平理论' },
           { text: '第五章：三个代表重要思想', link: '/chapters/05-三个代表重要思想' },
           { text: '第六章：科学发展观', link: '/chapters/06-科学发展观' },
+        ]
+      },
+      {
+        text: '历年试卷',
+        items: [
+          { text: '试卷总览', link: '/papers/' },
+          { text: '2024年试卷', link: '/papers/2024' },
+          { text: '2023年试卷', link: '/papers/2023' },
         ]
       }
     ],
