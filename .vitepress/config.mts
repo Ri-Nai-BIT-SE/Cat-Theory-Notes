@@ -42,8 +42,8 @@ export default defineConfig({
         text: '历年试卷',
         items: [
           { text: '试卷总览', link: '/papers/' },
-          { text: '2024年试卷', link: '/papers/2024' },
           { text: '2023年试卷', link: '/papers/2023' },
+          { text: '2024年试卷', link: '/papers/2024' },
         ]
       }
     ],
