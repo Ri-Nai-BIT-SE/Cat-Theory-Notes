@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     editLink: {
-      pattern: 'https://github.com/Ri-Nai-BIT-SE/Cat-Theory-Notes/edit/main/notes/docs/:path',
+      pattern: 'https://github.com/Ri-Nai-BIT-SE/Cat-Theory-Notes/edit/main/docs/:path',
       text: '在GitHub上编辑此页面'
     },
     nav: [
