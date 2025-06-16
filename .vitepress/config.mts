@@ -39,11 +39,16 @@ export default defineConfig({
         ]
       },
       {
-        text: '历年试卷',
+        text: '试卷资源',
         items: [
           { text: '试卷总览', link: '/papers/' },
           { text: '2023年试卷', link: '/papers/2023' },
           { text: '2024年试卷', link: '/papers/2024' },
+          { text: '模拟试卷一', link: '/papers/模拟试卷一' },
+          { text: '模拟试卷二', link: '/papers/模拟试卷二' },
+          { text: '模拟试卷三', link: '/papers/模拟试卷三' },
+          { text: '模拟试卷四', link: '/papers/模拟试卷四' },
+          { text: '参考答案', link: '/papers/模拟试卷参考答案' },
         ]
       }
     ],
